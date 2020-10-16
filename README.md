@@ -25,6 +25,7 @@ Use deployment script using cloud formation or any other framework of your choic
 7. Node 12.x
 8. JWT library
 
-Live Working Practical URL:- http://surway-app.s3-website.eu-west-2.amazonaws.com/
+## Live Working Practical URL:- [Surway](http://surway-app.s3-website.eu-west-2.amazonaws.com/)
+URL:- http://surway-app.s3-website.eu-west-2.amazonaws.com/
 
-Note:- To setup manually Please downwload attached .zip folders and follow the instructions according to readme.md file inside .zip folder.
+**Note:- To setup manually Please downwload attached .zip folders and follow the instructions according to readme.md file inside .zip folder.**
